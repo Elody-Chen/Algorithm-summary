@@ -5,3 +5,25 @@ Most/all algorithms will be written in `Python`. Since some data structures are 
 
 ## Contents(Ongoing Update)
 ### Binary Tree Traversal
+
+![Binary Tree Traversal]()
+
+#### Preorder Traversal
+
+#### Inorder Traversal
+
+#### Postorder Traversal
+
+#### Levelorder Traversal
+
+### Array Sort
+
+#### Bubble Sort
+
+#### Select Sort
+
+#### Insert Sort
+
+#### Quick Sort
+
+#### Merge Sort
