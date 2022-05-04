@@ -7,22 +7,22 @@ Most/all algorithms will be written in `Python`. Since some data structures are 
 
 ### [Binary Tree Traversal](https://github.com/Elody-Chen/Algorithm-summary/blob/main/binary_tree_traversal.ipynb)
 
-#### Preorder Traversal
+- Preorder Traversal
 
-#### Inorder Traversal
+- Inorder Traversal
 
-#### Postorder Traversal
+- Postorder Traversal
 
-#### Levelorder Traversal
+- Levelorder Traversal
 
 ### [Array Sort](https://github.com/Elody-Chen/Algorithm-summary/blob/main/array_sort.ipynb)
 
-#### Bubble Sort
+- Bubble Sort
 
-#### Select Sort
+- Select Sort
 
-#### Insert Sort
+- Insert Sort
 
-#### Quick Sort
+- Quick Sort
 
-#### Merge Sort
+- Merge Sort
