@@ -4,9 +4,8 @@ This repository houses code templates for basic algorithms, such as binary tree 
 Most/all algorithms will be written in `Python`. Since some data structures are missing in the `Python` language, I will define some data structures myself, such as the nodes of a tree.
 
 ## Contents(Ongoing Update)
-### Binary Tree Traversal
 
-[Binary Tree Traversal](https://github.com/Elody-Chen/Algorithm-summary/blob/main/binary_tree_traversal.ipynb)
+### [Binary Tree Traversal](https://github.com/Elody-Chen/Algorithm-summary/blob/main/binary_tree_traversal.ipynb)
 
 #### Preorder Traversal
 
@@ -16,9 +15,7 @@ Most/all algorithms will be written in `Python`. Since some data structures are 
 
 #### Levelorder Traversal
 
-### Array Sort
-
-[Array Sort](https://github.com/Elody-Chen/Algorithm-summary/blob/main/array_sort.ipynb)
+### [Array Sort](https://github.com/Elody-Chen/Algorithm-summary/blob/main/array_sort.ipynb)
 
 #### Bubble Sort
 
